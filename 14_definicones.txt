@@ -1,0 +1,7 @@
+alumno: jaretzy yajahira chavez cueto 
+
+clase: es el ambiente donde los objetos tendran ciertos comportamientos y atributos
+objeto: es la instansacion de algo que tendra los comportamientos y los atributos que defina la clase
+polimorfismo: los cpacidad de los atributos o metodos pueden comportarse de diferente maneras
+encapsulamiento: es un método o atributos donde se oculta cierta informacion al usuario 
+herencia: es donde un objeto "padre" puede pasarle su imformacion a otro objeto "hijo"
