@@ -4,11 +4,8 @@
 using namespace std;
 int main()
 {
-	int x=0,y=0;
-	cout << "ingrese el valor de x: ";
-	cin>>x;
-	cout << "ingrese el valor de y: ";
-	cin>>y;
+	int x=6,y=5;
 	cout << "suma: " << suma(x,y) << endl;
+	cout << "resta: "<< resta(x,y) << endl;
 	return 0;
 }
